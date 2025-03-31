@@ -26,6 +26,8 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
   - [Java SDK](https://github.com/modelcontextprotocol/java-sdk)
   - [Kotlin SDK](https://github.com/modelcontextprotocol/kotlin-sdk)
   - [C# SDK](https://github.com/modelcontextprotocol/csharp-sdk)
+  - [Rust SDK](https://github.com/modelcontextprotocol/rust-sdk)
+  - [Swift SDK](https://github.com/modelcontextprotocol/swift-sdk)
 
 ## Project Structure
 
@@ -35,6 +37,8 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
 - [java-sdk](https://github.com/modelcontextprotocol/java-sdk) - Java implementation
 - [kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - Kotlin implementation
 - [csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - C# implementation
+- [rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - Rust implementation
+- [swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - Swift implementation
 - [docs](https://github.com/modelcontextprotocol/docs) - User documentation and guides
 - [create-kotlin-server](https://github.com/modelcontextprotocol/kotlin-sdk/tree/main/samples/kotlin-mcp-server) - Kotlin sample server
 - [servers](https://github.com/modelcontextprotocol/servers) - List of maintained servers
