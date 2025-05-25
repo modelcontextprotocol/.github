@@ -12,6 +12,7 @@
   <a href="https://modelcontextprotocol.io">Documentation</a> |
   <a href="https://spec.modelcontextprotocol.io">Specification</a> |
   <a href="https://github.com/orgs/modelcontextprotocol/discussions">Discussions</a>
+  <a href="https://github.com/modelcontextprotocol/.github/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>
 </p>
 
 The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you're building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.
@@ -42,6 +43,7 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
 ## Contributing
 
 We welcome contributions of all kinds! Whether you want to fix bugs, improve documentation, or propose new features, please see our [contributing guide](CONTRIBUTING.md) to get started.
+We follow the [Contributor Covenant Code of Conduct](https://github.com/modelcontextprotocol/.github/blob/main/CODE_OF_CONDUCT.md) and expect all community members, maintainers, and contributors to uphold these standards.
 
 Have questions? Join the discussion in our [community forum](https://github.com/orgs/modelcontextprotocol/discussions).
 
