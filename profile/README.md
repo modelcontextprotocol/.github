@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://modelcontextprotocol.io">Documentation</a> |
-  <a href="https://modelcontextprotocol.io/specification">Specification</a> |
+  <a href="https://modelcontextprotocol.io/specification/latest">Specification</a> |
   <a href="https://github.com/orgs/modelcontextprotocol/discussions">Discussions</a>
 </p>
 
