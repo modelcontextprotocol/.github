@@ -57,4 +57,4 @@ Have questions? Join the discussion in our [community forum](https://github.com/
 
 ## About
 
-The Model Context Protocol is an open source project run by [Anthropic, PBC.](https://anthropic.com) and open to contributions from the entire community.
+The Model Context Protocol is an open source project hosted by [The Linux Foundation](https://lfprojects.org) and open to contributions from the entire community.
