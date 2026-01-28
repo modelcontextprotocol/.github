@@ -47,6 +47,7 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
 - [swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - Swift implementation
 - [create-kotlin-server](https://github.com/modelcontextprotocol/kotlin-sdk/tree/main/samples/kotlin-mcp-server) - Kotlin sample server
 - [servers](https://github.com/modelcontextprotocol/servers) - List of maintained servers
+- [ext-apps](https://github.com/modelcontextprotocol/ext-apps) - SDK and specification for MCP Apps Extension
 - [ext-auth](https://github.com/modelcontextprotocol/ext-auth) - List of authorization extensions
 
 ## Contributing
